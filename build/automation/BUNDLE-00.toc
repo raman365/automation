@@ -1,0 +1,3 @@
+([('automation',
+   '/Users/ramanoraha/Desktop/automation/dist/automation',
+   'EXECUTABLE')],)
